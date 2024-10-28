@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources._error">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.add_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.add_product">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.add_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.back_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.end_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.inventory">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.invoice">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.load">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.log_in_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.sign_up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.user_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

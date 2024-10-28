@@ -1,0 +1,16 @@
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Loading.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.new_signin.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.add.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.inventory2.resources
+C:\Users\Prithviraj\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.bill.resources

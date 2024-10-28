@@ -1,0 +1,56 @@
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.exe.config
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.add.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.inventory2.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Loading.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.bill.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.new_signin.resources
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.vbproj.GenerateResource.Cache
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.exe
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.pdb
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.xml
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.exe
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.xml
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.pdb
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.vbprojResolveAssemblyReference.cache
+C:\Users\Prithviraj\Desktop\PROJECT SEM 4\GAD\BILLINGSYSTEM\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Receiipt.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.exe.config
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.exe
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.xml
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.pdb
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.exe
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.pdb
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.xml
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.vbprojResolveAssemblyReference.cache
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.add.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.inventory2.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Loading.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.bill.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\WindowsApplication1.new_signin.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.vbproj.GenerateResource.Cache
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\bin\Debug\Databasebilling.mdf
+C:\Users\Prithviraj\Desktop\GAD MICRO\BILLINGSYSTEM\bin\Debug\Databasebilling_log.ldf
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.exe.config
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.exe
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.xml
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.pdb
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\bin\Debug\Databasebilling.mdf
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\bin\Debug\Databasebilling_log.ldf
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.exe
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.pdb
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\bin\Debug\BILLINGSYSTEM.xml
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.vbprojResolveAssemblyReference.cache
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.add.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.inventory2.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Loading.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.bill.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\WindowsApplication1.new_signin.resources
+C:\Users\Prithviraj\Desktop\GAD MICRO1\BILLINGSYSTEM\obj\Debug\BILLINGSYSTEM.vbproj.GenerateResource.Cache
